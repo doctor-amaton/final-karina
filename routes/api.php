@@ -19,4 +19,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 //Route::resource('places', 'PlaceController@add');
-Route::get('places', 'PlaceController@add');
+# Route::get('places', 'PlaceController@add');
+
+# Registrar (guardar) el lugar
+Route::post("places", "PlaceController@save");

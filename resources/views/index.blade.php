@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Place Selector</title>
+  <script type="text/javascript" src="js/vendor/jquery-3.4.1.js"></script>
 </head>
 <body>
 	<div>
@@ -21,12 +22,14 @@
         <input type="button" id="searchButton" value="Search"/>
     </div>
 
+    <script type="text/javascript" src="js/main.js"></script>
+
     <!--<script async defer
     src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
     </script>-->
 
     <!--<script async defer
-    src="https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=API&location=25.527420,-103.462730&radius=radiusSelect&type=addressInput&keyword=sushi">	
+    src="https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=API&location=25.527420,-103.462730&radius=radiusSelect&type=addressInput&keyword=sushi">
     </script>-->
 
 </body>

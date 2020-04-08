@@ -22,4 +22,15 @@ class PlaceController extends Controller
 		$sql .= "value (\"$this->location\",\"$this->radius\",\"$this->type\",\"$this->keyword\",\"$this->fields\")";
 		Executor::doit($sql);
 	}
+
+    /**
+     * Guardar un nuevo 'lugar'
+     *
+     * @param  Request $request Petición, debería tener la información formateada para ser almacenada inmediatamente
+     * @return HTTP Response [200, 400, 500]
+     */
+    public function save(Request $request)
+    {
+        dd($request->input("gatos", 69));
+    }
 }
