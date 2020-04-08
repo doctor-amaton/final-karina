@@ -31,6 +31,9 @@ class PlaceController extends Controller
      */
     public function save(Request $request)
     {
-        dd($request->input("gatos", 69));
+        # Respuesta simple
+        return response()->json([
+            "result" => 42
+        ]);
     }
 }
