@@ -8,12 +8,17 @@ class PlaceController extends Controller
 {
     public function index(Request $request)
     {
-    	$place_id = $request['place_id'];
-    	$name = $request['name']; //?: 160; //in KM
-        $formatted_address = $request['formatted_address'];
-        $rating = $request['rating'];
-        $lat = $request['lat'];
-        $lng = $request['lng'];
+    	$place_id = $request["place_id"];
+    	$name = $request["name"]; //?: 160; //in KM
+        $formatted_address = $request["formatted_address"];
+        $rating = $request["rating"];
+        $lat = $request["lat"];
+        $lng = $request["lng"];
+
+        # Usar la API de Google Maps definida en .env
+        $api_key = env("GOOGLE_MAPS_API_KEY", "");
+
+        return view("index", ["api_key" => $api_key]);
     }
 
     public function add()
@@ -24,7 +29,7 @@ class PlaceController extends Controller
 	}
 
     /**
-     * Guardar un nuevo 'lugar'
+     * Guardar un nuevo "lugar"
      *
      * @param  Request $request Petición, debería tener la información formateada para ser almacenada inmediatamente
      * @return HTTP Response [200, 400, 500]

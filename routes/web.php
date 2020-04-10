@@ -17,6 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/inicio', function() {
-	return view('index');
-});
+Route::get("/inicio", "PlaceController@index");
