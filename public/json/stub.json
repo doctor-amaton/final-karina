@@ -1,0 +1,962 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCJgEAAJFUxI6FnYGXwMSPthdCBNyfca3FtGpirtkSDozVpsFS75T9QS5HYOHIN0u53nhXtsis3CCHLiXC9msdptuSxlewvsNqKYmzsEsfmfCFw2C7I3WIhyBYTUQf8NvvA4P4QT8-I_2oH3scjdVqUk-BMJ7AJYBo02VDmQSDNYLAPFahFacBodMDDe2utzR3eL0w-3aOhauER7uG7KK6j2j-mlkXAzaK5lLFJcgJ2vot2K3qLK55T2XdYQoIVjjwtZmsFopVEifKY7vXcitw0jjHHFC44LtBTwCwpGgpbCKx5YaTSLJMbYF68KnUXhgbfhiuS2O5Vk1fSYyULR-ldVj7vR9SIS6gfSl0mauX3SJbYucsEeFn_tPFu0UWC0Zb0bFM3sdcfKGI1q4O4G5UtZejVV8SELCP0ceAyqq2djSPX4_6ckkaFJDGfhF-6AZWHmJa7uY0dxBvaBwz",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5401941,
+               "lng" : -103.4555456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54160727989272,
+                  "lng" : -103.4541964201073
+               },
+               "southwest" : {
+                  "lat" : 25.53890762010728,
+                  "lng" : -103.4568960798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "158e2f822672b8aa72767f3a20e2508bfebbc646",
+         "name" : "MARTE - cocina•café•espacio",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103738798957649040851\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5tlOA8bjEKWevRW0_Jnf6saH1etyAdMg6zkeEnsUExpkAVcTjX2QWSvDRkOI8iDIdNQRKkEQREQ_15dgx1Rsd_GLmf3RyfoYBNLYA-po26pZFXCcq5HTx3fKcxjsEduIEhCivET3WGBhdo0BemBi6scXGhR9mJizuJN0I5f5uP0jPf_Q6-diBw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJmbAQ52PZj4YRGNKJl87NVMs",
+         "plus_code" : {
+            "compound_code" : "GGRV+3Q Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGGRV+3Q"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJmbAQ52PZj4YRGNKJl87NVMs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 29,
+         "vicinity" : "Av Matamoros 585, Primero de Cobián Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5429247,
+               "lng" : -103.4495288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54427482989272,
+                  "lng" : -103.4482458201073
+               },
+               "southwest" : {
+                  "lat" : 25.54157517010728,
+                  "lng" : -103.4509454798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dd597c9132336521e828c31c571bcf8399d9e791",
+         "name" : "La Ofrenda Concept Store y Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103410062771865879698\"\u003eLa Ofrenda Concept Store y Café\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3Ofpf5wsfFcPSZK9hYR32IHVyIKyj_CSvsKIMj9zPXYLnDAVE-ghOHMIEOzX1z3n6hSATwWs413cMLe3nxTrh5-WV_7Ps16S5-IXmTsq-u9cZfKaWkW-UGoD7dGoppAYEhCf5oxJcQ7liWqKZ3oeDe9lGhTjY0PZtXm_UZ20bIaPMxYs5_wSGQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJKwRzidfbj4YR1kEoPum0uMw",
+         "plus_code" : {
+            "compound_code" : "GHV2+55 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGHV2+55"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJKwRzidfbj4YR1kEoPum0uMw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 237,
+         "vicinity" : "Rayon 184, Constancia, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5618731,
+               "lng" : -103.4193519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.56325227989272,
+                  "lng" : -103.4180307701073
+               },
+               "southwest" : {
+                  "lat" : 25.56055262010728,
+                  "lng" : -103.4207304298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ad1289cd7125eefdd5c7cfcb70b763340b30ec6f",
+         "name" : "BellaCuba.17",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105920801195278641112\"\u003eCarlos Ruvalcaba\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6ezEhm3SrpIYW_hN-7Mg9WwQjN5mpb2V263KxdUvbkrnNa3KHDSxcxfKYYkHVpFosUuk2BCSBUF1uStgwWwr74Ebpx94wmPzC10NpB3F75HjRhUD99fxZFVI0RP1PEk1EhDGPRpphPHL24tWzzaIuH-5GhQg_SfxlDY-QFx0GemVybR2v3uDlQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJO9hm0Ezaj4YRp7IfgiCpnPs",
+         "plus_code" : {
+            "compound_code" : "HH6J+P7 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRHH6J+P7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJO9hm0Ezaj4YRp7IfgiCpnPs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "27010, Río Mayo 1090, Magdalenas, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5385499,
+               "lng" : -103.457478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.53983352989272,
+                  "lng" : -103.4561285701073
+               },
+               "southwest" : {
+                  "lat" : 25.53713387010728,
+                  "lng" : -103.4588282298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "14f02a3050b6072b11dddac2d953349efd4d218c",
+         "name" : "Cafetería Desayunos Ligeros",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104986794303953394302\"\u003eNancy Valle Angelissima\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYRLqkSUU4eMW30YENBatvKanbOjN-Wn_yq3_K6VEDQrTrN8cx6fB9dcDjlvepwGbs0-f3FW6yvE2b32NujF9q11DN4WMi5UFGPHblkaXJV4oEhXGzhNFATQL_nUWEHLREhAUgLcBsTCDOuD_4R-0yrJPGhT0J7MnM5rKmw4tnh7dw0_80CsUxg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJnTEfsWbZj4YRpHewc8I_FFM",
+         "plus_code" : {
+            "compound_code" : "GGQV+C2 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGGQV+C2"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJnTEfsWbZj4YRpHewc8I_FFM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 24,
+         "vicinity" : "Benito Juárez 774, Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5411782,
+               "lng" : -103.4522119
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54255962989272,
+                  "lng" : -103.4508622201073
+               },
+               "southwest" : {
+                  "lat" : 25.53985997010728,
+                  "lng" : -103.4535618798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c0255748cb3df3d00a01932f8e3302c686530209",
+         "name" : "Cafe y Bar Tumbao",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109823714283074476234\"\u003eLorena Meza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA18wPBzI10sWfudyzLoDBKK8ydGFnTQve0jTMNG64y0SaXIwde0o3xA_8BBKTpP4djFu-yBZPf-SddjH6jwQ6Bfc010rMq0AP7n5wJa0ZPIXH3SeH9zWMhkhvo39sIHrbEhBcD1FMYxBltaBzmVAg67f2GhTSRQ4W_plDsvaYYZBKpjKEo8DRdA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJeW9Ki2HZj4YRxTPeib9zUPQ",
+         "plus_code" : {
+            "compound_code" : "GGRX+F4 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGGRX+F4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJeW9Ki2HZj4YRxTPeib9zUPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 234,
+         "vicinity" : "Av Allende 255, Primero de Cobián Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.542092,
+               "lng" : -103.4471459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54347892989272,
+                  "lng" : -103.4457955701073
+               },
+               "southwest" : {
+                  "lat" : 25.54077927010728,
+                  "lng" : -103.4484952298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4f6496b9efac11c2188d881f276b729135f04b86",
+         "name" : "Mongolian Restaurante Oriental",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104275916703951203166\"\u003eAlejandra Alvarado\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_GITzyL5AiOSCSLSZXQHptALkHX-DcoWp74rQZBCoOhM6P9SCH12_p24QnX_iUT4NiM4PS76zRZGSpYTkHlf_9CQgOuLe3FWh7SfLvLiDYBphoDI6e0lkRVQhTmSfKLZEhBOw_Nz9AlKeK446PrMithgGhQQY7wT1fnelem9ZK3IGENNqyxSJw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJHbPrrV7bj4YRtYNArXjdBsY",
+         "plus_code" : {
+            "compound_code" : "GHR3+R4 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGHR3+R4"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJHbPrrV7bj4YRtYNArXjdBsY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 93,
+         "vicinity" : "Av Abasolo 124-5, Primero de Cobián Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5399143,
+               "lng" : -103.4434472
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54126377989272,
+                  "lng" : -103.4420336201073
+               },
+               "southwest" : {
+                  "lat" : 25.53856412010728,
+                  "lng" : -103.4447332798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "870af20b182f1cdb56d54596d51e769ef7a51c4f",
+         "name" : "Bondi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108072076907402060231\"\u003ealejandro valdez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeF0RM-SKdBHqAmhNFRKr91OTtodUgTwSwPZebDCvzCUJLCtyRcd3PiQSBSRr16ENw-yNnXDq3GEzii6uZhlPrP1kkhGNCsnrAzuNt-zOFDPaHXLqaQLyb4PPAUcA8kI7EhBg0XTJyEvVNiBaHBYIF1skGhRNxyTw_jC5f2jei59tvSFepEIjAw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJR45Tbtzbj4YR7JvWG0ZIkjg",
+         "plus_code" : {
+            "compound_code" : "GHQ4+XJ Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGHQ4+XJ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJR45Tbtzbj4YR7JvWG0ZIkjg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 84,
+         "vicinity" : "Calle García Carrillo #126, Primero de Cobián Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5788081,
+               "lng" : -103.4033758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.58034712989272,
+                  "lng" : -103.4021125201073
+               },
+               "southwest" : {
+                  "lat" : 25.57764747010728,
+                  "lng" : -103.4048121798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c948253570c0b897cd532f1e080b27d1a407a0f",
+         "name" : "Sausalito Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107816888163322213726\"\u003eSara LGarcia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyXIBLjV-oTcuFXptTY2vPDTlrs-vaOj1pltxkPbShGHdJ0atYdFa8kBah-Dopy5Dvp9ndq6czSsgtuxvqXQQ3PmA_tknQWXEjSOMRp-dOQ816mJA7Zy6WUFcGXuKDXH9EhClM7JJx9NSyksM1c0diym0GhRqECsfIgqn6x3xqg46yPYTAzUHtw",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJQ8ltw1jaj4YRWaNIH4ohLFQ",
+         "plus_code" : {
+            "compound_code" : "HHHW+GJ Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRHHHW+GJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQ8ltw1jaj4YRWaNIH4ohLFQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 122,
+         "vicinity" : "Blvrd Independencia 3080, Residencial el Fresno, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5389242,
+               "lng" : -103.4484662
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54027392989272,
+                  "lng" : -103.4471591701073
+               },
+               "southwest" : {
+                  "lat" : 25.53757427010728,
+                  "lng" : -103.4498588298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "05356fbe95eb1035a2da14fd3d9a1c8dcec86cd4",
+         "name" : "Kingans",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117169017073799291989\"\u003eMAZWS 77\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAkicg7v_G6x_a0fHkySKO03YzHYG2IhqoEip-qi5XWPLY4aRuoJXBOyhaX0HtZl8RO7rcRSoXQdJpLwXXzLGjqvGXd6YMAiBOvHzOqk6VGa7goDEET5maW2SIwrG8tVPDEhBgyOXP0iXlwnOYXBPxWKfnGhQ_Pui66WTnllaEJ_DLm-nfMCSqeQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJD_91KN_bj4YRav4Kk88DEk8",
+         "plus_code" : {
+            "compound_code" : "GHQ2+HJ Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGHQ2+HJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJD_91KN_bj4YRav4Kk88DEk8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 902,
+         "vicinity" : "Calz Cristobal Colón 245, Segundo de Cobián Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5348531,
+               "lng" : -103.4230313
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.53654662989272,
+                  "lng" : -103.4216768201073
+               },
+               "southwest" : {
+                  "lat" : 25.53384697010728,
+                  "lng" : -103.4243764798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2d23232c5ebbf840f59c6d9d2a312b47bfd1af80",
+         "name" : "Pronto Restaurante Torreón Jardín",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103111269564453988819\"\u003eJulia Maria Vargas Carrejo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMMExuOkyBsJjAirMwnwJxcMMRbAWhl2ensOeIQ-HAtn9fXFtrl9Gv_0MFmVU7M4wCo5KG6sSgjML6NMfN3l4hOSqsDR8shFE_yD8ewvXw-DotxUkPsMo7uyjaY8NV3xLEhAkb85kp8o3xF1iNJg04EBZGhTe_qXz1AL7ghHPNlMgKSwQldq-jQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7zyc6ZXbj4YRU85Z6icAS1c",
+         "plus_code" : {
+            "compound_code" : "GHMG+WQ Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGHMG+WQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ7zyc6ZXbj4YRU85Z6icAS1c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 210,
+         "vicinity" : "Plaza Santa Maria, Blvrd Revolución 2360, Torreón Jardín, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5335762,
+               "lng" : -103.4186436
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.53498762989272,
+                  "lng" : -103.4172922201073
+               },
+               "southwest" : {
+                  "lat" : 25.53228797010728,
+                  "lng" : -103.4199918798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "32dc9d40a4acdf01925dc77c32844caa0f789d75",
+         "name" : "Casa de mi Abuela",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113932580571207287157\"\u003eReckerTcG546 :D\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqOgxmrAjIN9Frsu5vYJpryNCRTIP9RpanPossiMWWhmt9nU4urzmAN2C1qeaBRLGhvbybKYK3Lt8SV7dp7GpY_q4JknQg7Nbqa6deryQ2mNJ_fiq5VGsWlumc8L8ZWKoEhDH2Q8UlJLHgzzsu-GVOOYCGhQYPAX0RI5LJdaDI5Za1HPPeKM_5g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHbYAEJfbj4YRH0qXZT1n0As",
+         "plus_code" : {
+            "compound_code" : "GHMJ+CG Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGHMJ+CG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJHbYAEJfbj4YRH0qXZT1n0As",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 267,
+         "vicinity" : "Av. Citlatepetl 790, Torreón Jardín, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5438511,
+               "lng" : -103.4497064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54520067989273,
+                  "lng" : -103.4483360701073
+               },
+               "southwest" : {
+                  "lat" : 25.54250102010728,
+                  "lng" : -103.4510357298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "560c89f1ddfd5aa47f0816312eca2f81389942fb",
+         "name" : "Soul & Balanzze Centro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109707855764519825582\"\u003eGabriela Cázares Muñoz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1IQGxLgS5Q4aS0Pbu_WTh6jv3L4P-mB0rdW8_p1LZfuVoXEWgUZvpTwEiyau7J1V4o3bMWq3doZT-5VC3kw50I_lu29wOxlPH08HOg_aLANNhyDo8G4MJnfPGRgta5hVEhCgc1UXGXFyuqiaKaj75cgEGhTy9IaUN24fZH8K2rD-yesdU1y9Iw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJdbpQXdjbj4YROQnIT5HeH_s",
+         "plus_code" : {
+            "compound_code" : "GHV2+G4 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGHV2+G4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJdbpQXdjbj4YROQnIT5HeH_s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26,
+         "vicinity" : "Rayon 287, Primero de Cobián Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5686486,
+               "lng" : -103.4244197
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.56983042989272,
+                  "lng" : -103.4229021201073
+               },
+               "southwest" : {
+                  "lat" : 25.56713077010728,
+                  "lng" : -103.4256017798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4ed4267947dacc68d65036952d2dac47b1819227",
+         "name" : "Kingans",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110589937860403411289\"\u003eKingan&#39;s Cafe Europeo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAPBvoYkP3NUYTdbSmepYys3untW6E5yXk0BlySrOSFYp1qEYUOb2uJLtt9jpAbGQKou5Dk3LnXp_opXGrGCozQZH49YXb64a5G-X3o5Ui0IO9oevOl-9V-pd0OCVGjHlFEhAtcJNsxzQsBplOsAokiCt7GhTptIAGNDh8kGGxETZSSlQ95rvC6A",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJFVcKGknaj4YR-o6oDRcFfy8",
+         "plus_code" : {
+            "compound_code" : "HH9G+F6 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRHH9G+F6"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJFVcKGknaj4YR-o6oDRcFfy8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 639,
+         "vicinity" : "Blvrd Independencia 2295, San Isidro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.544015,
+               "lng" : -103.4542875
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54542717989272,
+                  "lng" : -103.4529269201073
+               },
+               "southwest" : {
+                  "lat" : 25.54272752010728,
+                  "lng" : -103.4556265798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c8b65d0ce191d9a66d8360a053bc56684a69f6f0",
+         "name" : "Mar y Tierra",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113268806984892842078\"\u003ePablo Pastor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3XfsbtZAXewA1S-9UF38lUIY_IZaG6gPEQW3D_QYvM5mW2VYGzFHb-xf3215q-hSwszEB8hf2pe-OgBv4xcyqNkScu-jv5PS3dvuV4NF6vU5IodfjpILReaptgUfW7XXEhCPlL_KAmLINlGHF18EJbKBGhSynqzcp-FGvFZwFQrS-GGNTELoHQ",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJdb4CH2PZj4YRByxEpWfKaPM",
+         "plus_code" : {
+            "compound_code" : "GGVW+J7 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGGVW+J7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJdb4CH2PZj4YRByxEpWfKaPM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 85,
+         "vicinity" : "Av. Escobedo 453, Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5595575,
+               "lng" : -103.433072
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.56122287989272,
+                  "lng" : -103.4320384701073
+               },
+               "southwest" : {
+                  "lat" : 25.55852322010728,
+                  "lng" : -103.4347381298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d1b7022e26c4e700cecf70b965fb14941822cd03",
+         "name" : "Gourmet Cimaco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105843934343965545594\"\u003eGourmet Cimaco\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcU-5fYEEkMgBjuHpy5sdrugT1CWdaja8ZIi59bvwQ8LzdDSSskhidRW3G5sJuGMXqeKprD72x9fiVR_VzHHOCuf9yuRz_91K8kP1MRW_sFfjIjdxjV2CHONRJNxuBRpZEhCvwSPdVdnBpVh3_413x_1AGhSURkGLbhLueiuWnSouOtp87dqnXQ",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJqWNzG0raj4YRMYIpbDoQVJY",
+         "plus_code" : {
+            "compound_code" : "HH58+RQ Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRHH58+RQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJqWNzG0raj4YRMYIpbDoQVJY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 385,
+         "vicinity" : "Blvrd Independencia 1300, Navarro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5478508,
+               "lng" : -103.4535769
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54918987989272,
+                  "lng" : -103.4522115701073
+               },
+               "southwest" : {
+                  "lat" : 25.54649022010728,
+                  "lng" : -103.4549112298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4457f3cd3552d868cd8e81fd03ba9a1ddefa939b",
+         "name" : "Cochinita pibil",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113514380748883147635\"\u003eoctavio garcia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPC240o7nWWng2X5AHErDgJGEb4jJEJ4sjUN73FYyUTWCiljFRf57fkBQPRrEt-j-m6uXYflwgAk7iuVuj_Xa4xsMx9peK0c5-TSAE_yBkiU4Wr5Bw2cl_3ZQgKHq2q0wEhB43tdFHbzHOIYv3MIO9upfGhQJX5xAUUCmM8oPfq24ZxjJYZFzgA",
+               "width" : 2080
+            }
+         ],
+         "place_id" : "ChIJ5eUJlMvZj4YRbHEwSqr16j8",
+         "plus_code" : {
+            "compound_code" : "GGXW+4H Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGGXW+4H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ5eUJlMvZj4YRbHEwSqr16j8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "Amp los Ángeles, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5420857,
+               "lng" : -103.4508491
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54349022989272,
+                  "lng" : -103.4494991201073
+               },
+               "southwest" : {
+                  "lat" : 25.54079057010728,
+                  "lng" : -103.4521987798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ccaf0e12be551df68b78be980a8ff2fbd02cc2eb",
+         "name" : "Gorditas y comida corrida Mary",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112000177251613138213\"\u003eM. Alejandro Vangs\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASBBEtULUan0Zf_TfNZIB8WLXCgoSAeUcMLJdVm_l3TFgjmRZMzOflL6n5yP6TBdj1LL5VzUKnGlc9B5PrecaAH3jTdBPkUK6-xi4jancO-HqswDZ1AFImlaBt16RnFPyEhDM0m-zsyXowtU_abnUBs4lGhTaI8YXv8683Glx0qeHnKepldzJ3w",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJoX9xnNjbj4YRH-7jDT_m_nQ",
+         "plus_code" : {
+            "compound_code" : "GGRX+RM Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGGRX+RM"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJoX9xnNjbj4YRH-7jDT_m_nQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "Av Abasolo 123, Primero de Cobián Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5417303,
+               "lng" : -103.453836
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54307947989272,
+                  "lng" : -103.4524423201073
+               },
+               "southwest" : {
+                  "lat" : 25.54037982010727,
+                  "lng" : -103.4551419798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fb96bbb0da93c8fb2bd14b1645bbd2580f88bb05",
+         "name" : "Pa' Asarla Agusto",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102555603233143106451\"\u003eCarlos Lopez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAevT_lJgMUijxQ6HQ4bTtdefDfr1bZeGpE0MXnNTam0Is0Nl9YbKQt1PoifuBvyNydjS_pgk00gbVONjWc_6worNmTxGzc_JiU-kkgPXo4_EuJpq0OJt1WU22yjI3gR65EhB2DOLNv28Eey4QqeRYH9Z8GhQI3ZyATD1aJeIZDMA1GkpjXLGgJA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJURt6UmLZj4YRfdky5Gj1qTo",
+         "plus_code" : {
+            "compound_code" : "GGRW+MF Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGGRW+MF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJURt6UmLZj4YRfdky5Gj1qTo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Calle Ramón Corona 37, Primero de Cobián Centro, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5456097,
+               "lng" : -103.4549027
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.54701642989272,
+                  "lng" : -103.4535534201073
+               },
+               "southwest" : {
+                  "lat" : 25.54431677010728,
+                  "lng" : -103.4562530798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b3590eab5de6273ccfe34d25e9ffadcc93a3d140",
+         "name" : "D' Enrique",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110904370275804213234\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPaZQMeodQXnD4aWw9NLBYewoI7PTgvNzoO6NKmOwd_S5LRfwpEhvVQsMfFdXXuWeq75FRjm5Wn-XySwLRYTUTmNv_quu2kqh6m05LUCaUYEEk3pZ5ktZiu1nMu4q8hBEEhCA0I61LMYv4G3tSH912eEkGhR2zZj7t9MsIRK7VnwcbfCnl_tvsA",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJMy0gzXzZj4YRDCbvjbCn1Ms",
+         "plus_code" : {
+            "compound_code" : "GGWW+62 Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRGGWW+62"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJMy0gzXzZj4YRDCbvjbCn1Ms",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 157,
+         "vicinity" : "Av Simon Bolívar 517, Moderna, Torreón"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5813063,
+               "lng" : -103.4033344
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.5852366,
+                  "lng" : -103.4012405
+               },
+               "southwest" : {
+                  "lat" : 25.57781659999999,
+                  "lng" : -103.4067353
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d6df61fb67062ebb5565bc0d15d849509f077ac2",
+         "name" : "Sushi Itto Galerias",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111499691925531951983\"\u003eSushi Itto Galerias Laguna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6hAoTzohnxN8IaA6iTZg6pRaIvshDW1BYc8cgsPMQK-PD2PD1jUheUYcWhsb56eC71lvJO0XJ2sXFhVciFx5Ysck8Yc_RQ9bzukC_i1B-H8PH2V6viY9NxiUUsrGDQAwEhDDmKCfs1wxhHetyJzoxA-RGhRSzxj14Dov-4Qfgu-1hgRZpOf6oQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJsbi-8kLaj4YRCXDJzh7kyzA",
+         "plus_code" : {
+            "compound_code" : "HHJW+GM Torreón, Coahuila de Zaragoza",
+            "global_code" : "75QRHHJW+GM"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJsbi-8kLaj4YRCXDJzh7kyzA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2489,
+         "vicinity" : "Galerías Laguna Local 149, Periferico Raul Lopez Sanchez 6000, Residencial el Fresno, Torreón"
+      }
+   ],
+   "status" : "OK"
+}
