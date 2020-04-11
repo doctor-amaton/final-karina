@@ -23,3 +23,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 # Registrar (guardar) el lugar
 Route::post("places", "PlaceController@save");
+
+# Encontrar ubicaciones rodeando al centro especificado por la latitud
+Route::get("places/locations", "PlaceController@locate");

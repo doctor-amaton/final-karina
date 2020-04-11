@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var map;
 var markers = [];
 var infoWindow;
@@ -21,26 +22,17 @@ function initMap() {
     searchButton = document.getElementById("searchButton").onclick = searchLocations;
 
     locationSelect = document.getElementById("locationSelect");
+=======
+/**
+ * Mostrar el select de ubicaciones encontradas
+ */
+function showLocationSelect() {
+    locationSelect.style.visibility = "visible";
+>>>>>>> 64698d0d434ea88699a89e61da19fd35eca2740c
     locationSelect.onchange = function () {
         var markerNum = locationSelect.options[locationSelect.selectedIndex].value;
-        if (markerNum != "none") {
-            google.maps.event.trigger(markers[markerNum], 'click');
-        }
+        google.maps.event.trigger(markers[markerNum], 'click');
     };
-}
-
-function searchLocations() {
-    var address = document.getElementById("addressInput").value;
-    var geocoder = new google.maps.Geocoder();
-    geocoder.geocode({
-        address: address
-    }, function (results, status) {
-        if (status == google.maps.GeocoderStatus.OK) {
-            searchLocationsNear(results[0].geometry.location);
-        } else {
-            alert(address + ' not found');
-        }
-    });
 }
 
 function clearLocations() {
@@ -57,37 +49,6 @@ function clearLocations() {
     locationSelect.appendChild(option);
 }
 
-function searchLocationsNear(center) {
-    clearLocations();
-
-    var radius = document.getElementById('radiusSelect').value;
-    var searchUrl = 'storelocator.php?lat=' + center.lat() + '&lng=' + center.lng() + '&radius=' + radius;
-    downloadUrl(searchUrl, function (data) {
-        var xml = parseXml(data);
-        var markerNodes = xml.documentElement.getElementsByTagName("marker");
-        var bounds = new google.maps.LatLngBounds();
-        for (var i = 0; i < markerNodes.length; i++) {
-            var id = markerNodes[i].getAttribute("id");
-            var name = markerNodes[i].getAttribute("name");
-            var address = markerNodes[i].getAttribute("address");
-            var distance = parseFloat(markerNodes[i].getAttribute("distance"));
-            var latlng = new google.maps.LatLng(
-                parseFloat(markerNodes[i].getAttribute("lat")),
-                parseFloat(markerNodes[i].getAttribute("lng")));
-
-            createOption(name, distance, i);
-            createMarker(latlng, name, address);
-            bounds.extend(latlng);
-        }
-        map.fitBounds(bounds);
-        locationSelect.style.visibility = "visible";
-        locationSelect.onchange = function () {
-            var markerNum = locationSelect.options[locationSelect.selectedIndex].value;
-            google.maps.event.trigger(markers[markerNum], 'click');
-        };
-    });
-}
-
 function createMarker(latlng, name, address) {
     var html = "<b>" + name + "</b> <br/>" + address;
     var marker = new google.maps.Marker({
@@ -101,12 +62,13 @@ function createMarker(latlng, name, address) {
     markers.push(marker);
 }
 
-function createOption(name, distance, num) {
+function createOption(name, num) {
     var option = document.createElement("option");
     option.value = num;
     option.innerHTML = name;
     locationSelect.appendChild(option);
 }
+<<<<<<< HEAD
 
 function downloadUrl(url, callback) {
     var request = window.ActiveXObject ?
@@ -153,3 +115,5 @@ function arePointsNear(checkPoint, centerPoint, km) {
 
 
 function doNothing() {}
+=======
+>>>>>>> 64698d0d434ea88699a89e61da19fd35eca2740c
