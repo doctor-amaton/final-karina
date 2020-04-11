@@ -4,12 +4,12 @@ var infoWindow;
 var locationSelect;
 
 function initMap() {
-    var sydney = {
-        lat: -33.863276,
-        lng: 151.107977
+    var torreon = {
+        lat: 25.527420,
+        lng: -103.462730
     };
     map = new google.maps.Map(document.getElementById('map'), {
-        center: sydney,
+        center: torreon,
         zoom: 11,
         mapTypeId: 'roadmap',
         mapTypeControlOptions: {
@@ -133,5 +133,23 @@ function parseXml(str) {
         return (new DOMParser).parseFromString(str, 'text/xml');
     }
 }
+
+/*function distance(checkPoint, centerPoint) {
+    var ky = 40000 / 360;
+    var kx = Math.cos(Math.PI * centerPoint.lat / 180.0) * ky;
+    var dx = Math.abs(centerPoint.lng - checkPoint.lng) * kx;
+    var dy = Math.abs(centerPoint.lat - checkPoint.lat) * ky;
+    return Math.sqrt(dx * dx + dy * dy);
+}
+
+function arePointsNear(checkPoint, centerPoint, km) {
+    var ky = 40000 / 360;
+    var kx = Math.cos(Math.PI * centerPoint.lat / 180.0) * ky;
+    var dx = Math.abs(centerPoint.lng - checkPoint.lng) * kx;
+    var dy = Math.abs(centerPoint.lat - checkPoint.lat) * ky;
+    return Math.sqrt(dx * dx + dy * dy) <= km;
+}*/
+
+
 
 function doNothing() {}

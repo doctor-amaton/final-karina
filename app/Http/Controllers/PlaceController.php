@@ -28,6 +28,21 @@ class PlaceController extends Controller
 		Executor::doit($sql);
 	}
 
+    /*public function test(Request $request)
+    {
+        $latCenter = $request["latCenter"];
+        $lonCenter = $request["lonCenter"];
+        $latTarget = $request["latTarget"];
+        $lonTarget = $request["lonTarget"];
+        $distanceKm = $request["distanceKm"];
+
+        if()
+        {
+            return true
+        }
+        
+    } */
+
     /**
      * Guardar un nuevo "lugar"
      *
