@@ -26,3 +26,5 @@ Route::post("places", "PlaceController@save");
 
 # Encontrar ubicaciones rodeando al centro especificado por la latitud
 Route::get("places/locations", "PlaceController@locate");
+
+Route::get("places/call","PlaceCotronller@Call");

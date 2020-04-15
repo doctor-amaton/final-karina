@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Exceptions\ValidationException;
 use Illuminate\Http\Request;
+use Illuminate\Http\Client\Response;
 
 class PlaceController extends Controller
 {
@@ -123,12 +124,12 @@ class PlaceController extends Controller
         return view("index", ["api_key" => $api_key, "types" => $types]);
     }
 
-    public function add()
+    /*public function add()
     {
 		$sql = "Insert into places (location,radius,type,keyword,fields) ";
 		$sql .= "value (\"$this->location\",\"$this->radius\",\"$this->type\",\"$this->keyword\",\"$this->fields\")";
 		Executor::doit($sql);
-	}
+	}*/
 
     /*public function test(Request $request)
     {
@@ -336,4 +337,32 @@ class PlaceController extends Controller
         }
 
     }
+
+    public function Call(Response $response)
+    {
+        $api_key = env("GOOGLE_MAPS_API_KEY", "");
+        $response = Http::get('https://maps.googleapis.com/maps/api/place/nearbysearch/json?', 
+        [
+        'key' => $api_key,
+        'location' => $lat,$lon,
+        'radius'=>$radius,
+        'type'=>$type,
+        'keyword'=>$keyword,
+        ]);
+        dd($response);
+    }
+    
+   /* public function testCall(Request $request)
+    {
+      $client = new GuzzleHttp\Client();
+      $res = $client->request('GET', 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=your-google-places-api-key&location={{lat}},{{lng}}&radius=500&type=restaurant&keyword=sushi',
+      [
+        'key' => $api_key,
+        'location' => $lat,$lon,
+        'radius'=>$radius,
+        'type'=>$type,
+        'keyword'=>$keyword,
+      ]);
+    }*/
+
 }
